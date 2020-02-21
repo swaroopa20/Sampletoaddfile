@@ -1,0 +1,44 @@
+    2  git status
+    3  git clean -help
+    5  git add sample.txt
+    8  git clone https://github.com/munireddy/Newrepo.git
+   10  gitstatus
+   11  git status
+   16  git status
+   19  git status
+   20  git add file3.txt
+   21  git status
+   22  git commit -m "new file added fromubuntu"
+   23  git status
+   24  git push
+   26  git clone https://github.com/swaroopa20/Testcheck.git
+   33  git status
+   34  git add sample.txt 
+   35  git status
+   36  git commit -m "new sample file"
+   37  git push
+   39  git pull
+   41  git pull
+   42  git status
+   48  git clone https://github.com/swaroopa20/Sampletoaddfile.git
+   50  git status
+   54  git status
+   55  git add sample.txt
+   56  git commit -m "new file added from ubuntu"
+   57  git commit -m 'new file added from ubuntu'
+   59  git commit --amend --reset-author
+   64  git config user.email "amandaarimanda@gmail.com
+git config user.name "swaroopa20"
+swaroopa@DESKTOP-HHFMJQ9:~/Sampletest1/Sampletoaddfile$ git config user.email "amandaarimanda@gmail.com
+   66  > git config user.name "swaroopa20"
+   67  git config user.email "amandaarimanda@gmail.com
+git config user.name "swaroopa20"
+swaroopa@DESKTOP-HHFMJQ9:~/Sampletest1/Sampletoaddfile$ git config user.email "amandaarimanda@gmail.com"
+   68  git config user.email "amandaarimanda@gmail.com";git config user.name "swaroopa20"
+   69  git commit -m 'new file added from ubuntu'
+   70  git status
+   73  rm git
+   74  git push
+   75  git pull
+   77  history | grep git
+   78  history | grep git > Commands_Git.txt
